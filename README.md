@@ -35,7 +35,7 @@
 
 | Jade | Yonggipo | Bas | Joe | Joey | Kai | Lavender | Yoon | Acasia |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| [<img src="https://avatars.githubusercontent.com/u/26922015?v=4" width="100">](https://github.com/JeongAYoo/bbiyongbiyong) | [<img src="https://avatars.githubusercontent.com/u/106513003?v=4" width="100">](https://github.com/yonggipo/MyAutopay) | 
+| [<img src="https://avatars.githubusercontent.com/u/26922015?v=4" width="100">](https://github.com/JeongAYoo/bbiyongbiyong) | [<img src="https://avatars.githubusercontent.com/u/106513003?v=4" width="100">](https://github.com/yonggipo/chulseokcheolseok) | 
 
 <br>
 
