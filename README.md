@@ -24,6 +24,7 @@
 | PAKA | Yeon | Yonggipo | Jade | Grape |
 | :--: | :--: | :--: | :--: | :--: |
 | [<img src="https://avatars.githubusercontent.com/u/116094622?s=400&u=fd60d04a8d6295af1dc57aeb165949af6d5acd91&v=4" width="100">](https://github.com/AKAPUCH/Dev_Floor) | [<img src="https://avatars.githubusercontent.com/u/68737910?v=4" width="100">](https://github.com/YeonIsFree/MukDiary) | [<img src="https://avatars.githubusercontent.com/u/106513003?v=4" width="100">](https://github.com/yonggipo/MyAutopay) | [<img src="https://avatars.githubusercontent.com/u/26922015?v=4" width="100">](https://github.com/JeongAYoo/bbiyongbiyong) | [<img src="https://avatars.githubusercontent.com/u/110097186?v=4" width="100">](https://github.com/greatgrapes/WINTERLAND-DIARYAPP) |
+| Dev_Floor | MukDiary | MyAutopay | bbiyongbiyong | WINTERLAND-DIARYAPP |
 
 <br>
 
@@ -36,6 +37,7 @@
 | Jade | Yonggipo | Bas | Joe | Joey | Kai | Lavender | Yoon | Acasia |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
 | [<img src="https://avatars.githubusercontent.com/u/26922015?v=4" width="100">](https://github.com/JeongAYoo/bbiyongbiyong) | [<img src="https://avatars.githubusercontent.com/u/106513003?v=4" width="100">](https://github.com/yonggipo/chulseokcheolseok) | 
+| bbiyongbiyong | chulseokcheolseok | Bas | Joe | Joey | Kai | Lavender | Yoon | Acasia |
 
 <br>
 
