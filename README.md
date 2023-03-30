@@ -36,8 +36,8 @@
 
 | Jade | Yonggipo | Bas | Joe | Kai | Lavender | Yoon | Acasia | 엘렌 |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| [<img src="https://avatars.githubusercontent.com/u/26922015?v=4" width="100">](https://github.com/JeongAYoo/bbiyongbiyong) | [<img src="https://avatars.githubusercontent.com/u/106513003?v=4" width="100">](https://github.com/yonggipo/chulseokcheolseok) | | | | | [<img src="https://avatars.githubusercontent.com/u/103012465?v=4" width="100">](https://github.com/lesyeuxdeyoon/TravelPlanner) | [<img src="https://avatars.githubusercontent.com/u/117105267?v=4" width="100">](https://github.com/Acasiax/SwiftCal) | |
-| bbiyongbiyong | chulseokcheolseok | Bas | Joe | Kai | Lavender | Yoon | SwiftCal | 엘렌 |
+| [<img src="https://avatars.githubusercontent.com/u/26922015?v=4" width="100">](https://github.com/JeongAYoo/bbiyongbiyong) | [<img src="https://avatars.githubusercontent.com/u/106513003?v=4" width="100">](https://github.com/yonggipo/chulseokcheolseok) | | | | [<img src="https://avatars.githubusercontent.com/u/124175814?v=4" width="100">](https://github.com/Lavender-SH/MonoWeather) | [<img src="https://avatars.githubusercontent.com/u/103012465?v=4" width="100">](https://github.com/lesyeuxdeyoon/TravelPlanner) | [<img src="https://avatars.githubusercontent.com/u/117105267?v=4" width="100">](https://github.com/Acasiax/SwiftCal) | |
+| bbiyongbiyong | chulseokcheolseok | Bas | Joe | Kai | MonoWeather | Yoon | SwiftCal | 엘렌 |
 
 <br>
 
